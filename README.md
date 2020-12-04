@@ -8,4 +8,4 @@ Kullanıcının girdiği (boşluk olmadan)  değerin palindrom olup olmadığın
 Değerin uzunluğunun çift sayı olmaması gerekli, bu sebeple çift sayı olanlar baştan reddedilecek. Tek sayı olanlarda ortada bulunan değer tespit edilerek sağ ve sol kısımlar ayrılır. Sağ kısım ters çevrilerek sol kısım ile karşılaştırılır ve eşleşiyorsa palindrom sonucu verilir.
 
 ### Diyagram
-![image](https://i.ibb.co/pyLH7GL/Diyagram.png)
+![image](https://i.ibb.co/jztZPwY/Diyagram.png)
